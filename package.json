@@ -1,0 +1,24 @@
+{
+  "name": "namaste-node",
+  "version": "1.0.0",
+  "description": "\"Collection of Notes for Backend develoment\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Athi-m-dev"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "db"
+  ],
+  "author": "Athithiyan M",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^6.18.0"
+  }
+}
